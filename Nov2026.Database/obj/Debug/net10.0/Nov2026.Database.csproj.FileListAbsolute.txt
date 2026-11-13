@@ -1,0 +1,14 @@
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/obj/Debug/net10.0/Nov2026.Database.csproj.AssemblyReference.cache
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/obj/Debug/net10.0/Nov2026.Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/obj/Debug/net10.0/Nov2026.Database.AssemblyInfoInputs.cache
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/obj/Debug/net10.0/Nov2026.Database.AssemblyInfo.cs
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/obj/Debug/net10.0/Nov2026.Database.csproj.CoreCompileInputs.cache
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/bin/Debug/net10.0/Nov2026.Database.deps.json
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/bin/Debug/net10.0/Nov2026.Database.runtimeconfig.json
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/bin/Debug/net10.0/Nov2026.Database.dll
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/bin/Debug/net10.0/Nov2026.Database.pdb
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/obj/Debug/net10.0/Nov2026.Database.dll
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/obj/Debug/net10.0/refint/Nov2026.Database.dll
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/obj/Debug/net10.0/Nov2026.Database.pdb
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/obj/Debug/net10.0/Nov2026.Database.genruntimeconfig.cache
+/Users/hnitthit/RiderProjects/Nov2026/Nov2026.Database/obj/Debug/net10.0/ref/Nov2026.Database.dll
